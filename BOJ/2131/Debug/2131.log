@@ -1,4 +1,0 @@
-﻿  2131.cpp
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2131\2131.cpp(36,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2131\2131.cpp(61,17): warning C4552: '+': 식의 결과가 사용되지 않습니다.
-  2131.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\2131.exe

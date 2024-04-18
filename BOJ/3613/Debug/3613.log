@@ -1,5 +1,0 @@
-﻿  3613.cpp
-D:\WORKPLACE\C++\BOJ\3613\3613.cpp(146,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\WORKPLACE\C++\BOJ\3613\3613.cpp(154,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\WORKPLACE\C++\BOJ\3613\3613.cpp(159,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  3613.vcxproj -> D:\WORKPLACE\C++\BOJ\Debug\3613.exe

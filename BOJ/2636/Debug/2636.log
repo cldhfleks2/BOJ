@@ -1,3 +1,0 @@
-﻿  2636.cpp
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2636\2636.cpp(94,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'bool *'입니다.
-  2636.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\2636.exe

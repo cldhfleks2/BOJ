@@ -1,5 +1,0 @@
-﻿  2966.cpp
-D:\WORKPLACE\C++\BOJ\2966\2966.cpp(12,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
-D:\WORKPLACE\C++\BOJ\2966\2966.cpp(12,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
-D:\WORKPLACE\C++\BOJ\2966\2966.cpp(12,12): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
-  2966.vcxproj -> D:\WORKPLACE\C++\BOJ\Debug\2966.exe

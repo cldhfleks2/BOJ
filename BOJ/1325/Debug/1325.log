@@ -1,5 +1,0 @@
-﻿  1325.cpp
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1325\1325.cpp(11,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1325\1325.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1325\1325.cpp(35,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  1325.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\1325.exe

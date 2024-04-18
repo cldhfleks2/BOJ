@@ -1,4 +1,0 @@
-﻿  source.cpp
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2rdCodingCompetition\source.cpp(33,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2rdCodingCompetition\source.cpp(41,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  2rdCodingCompetition.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\2rdCodingCompetition.exe

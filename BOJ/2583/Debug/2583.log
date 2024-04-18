@@ -1,4 +1,0 @@
-﻿  2583.cpp
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2583\2583.cpp(68,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2583\2583.cpp(82,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  2583.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\2583.exe

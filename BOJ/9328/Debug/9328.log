@@ -1,6 +1,0 @@
-﻿  9328.cpp
-D:\WORKPLACE\C++\BOJ\9328\9328.cpp(104,3): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\WORKPLACE\C++\BOJ\9328\9328.cpp(118,3): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\WORKPLACE\C++\BOJ\9328\9328.cpp(188,5): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\WORKPLACE\C++\BOJ\9328\9328.cpp(208,5): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  9328.vcxproj -> D:\WORKPLACE\C++\BOJ\Debug\9328.exe

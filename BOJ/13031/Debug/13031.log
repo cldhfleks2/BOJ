@@ -1,6 +1,0 @@
-﻿  13031.cpp
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\13031\13031.cpp(57,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\13031\13031.cpp(79,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\13031\13031.cpp(115,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\13031\13031.cpp(118,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  13031.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\13031.exe
