@@ -1,0 +1,5 @@
+﻿  2344.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2344\2344.cpp(34,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'bool *'입니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2344\2344.cpp(44): warning C4715: 'findNumber': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2344\2344.cpp(60): warning C4715: 'beam': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  2344.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\2344.exe

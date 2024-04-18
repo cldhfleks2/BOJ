@@ -1,0 +1,3 @@
+﻿  11097.cpp
+D:\WORKPLACE\C++\BOJ\11097\11097.cpp(100,5): warning C4477: 'scanf' : 서식 문자열 '%1d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'bool *'입니다.
+  11097.vcxproj -> D:\WORKPLACE\C++\BOJ\Debug\11097.exe

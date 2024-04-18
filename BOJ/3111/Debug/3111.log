@@ -1,0 +1,4 @@
+﻿  3111.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\3111\3111.cpp(95,15): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\3111\3111.cpp(119,15): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  3111.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\3111.exe

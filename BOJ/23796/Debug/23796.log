@@ -1,0 +1,3 @@
+﻿  23796.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\23796\23796.cpp(43,14): warning C4101: 'blankCnt' :참조되지 않은 지역 변수입니다.
+  23796.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\23796.exe

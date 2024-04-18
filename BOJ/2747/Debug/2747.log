@@ -1,0 +1,5 @@
+﻿  2747.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2747\2747.cpp(7,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'll *'입니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2747\2747.cpp(7,8): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\2747\2747.cpp(7,8): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  2747.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\2747.exe

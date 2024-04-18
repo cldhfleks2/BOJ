@@ -1,0 +1,5 @@
+﻿  17143.cpp
+D:\WORKPLACE\C++\BOJ\17143\17143.cpp(61,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\WORKPLACE\C++\BOJ\17143\17143.cpp(86,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\WORKPLACE\C++\BOJ\17143\17143.cpp(137,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  17143.vcxproj -> D:\WORKPLACE\C++\BOJ\Debug\17143.exe

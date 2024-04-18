@@ -1,0 +1,6 @@
+﻿  16877.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\16877\16877.cpp(39,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\16877\16877.cpp(157,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\16877\16877.cpp(181,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\16877\16877.cpp(184,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  16877.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\16877.exe

@@ -1,0 +1,4 @@
+﻿  3089.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\3089\3089.cpp(33,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\3089\3089.cpp(51,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  3089.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\3089.exe

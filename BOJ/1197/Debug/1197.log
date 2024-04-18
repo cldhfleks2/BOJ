@@ -1,0 +1,5 @@
+﻿  1197.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1197\1197.cpp(69,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'll'입니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1197\1197.cpp(69,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1197\1197.cpp(69,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  1197.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\1197.exe

@@ -1,0 +1,5 @@
+﻿  14500.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\14500\14500.cpp(62,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\14500\14500.cpp(85,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\14500\14500.cpp(125,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  14500.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\14500.exe

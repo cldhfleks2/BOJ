@@ -1,0 +1,5 @@
+﻿  23250.cpp
+D:\WORKPLACE\C++\BOJ\23250\23250.cpp(30,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64 *'입니다.
+D:\WORKPLACE\C++\BOJ\23250\23250.cpp(30,8): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+D:\WORKPLACE\C++\BOJ\23250\23250.cpp(30,8): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  23250.vcxproj -> D:\WORKPLACE\C++\BOJ\Debug\23250.exe

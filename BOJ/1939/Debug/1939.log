@@ -1,0 +1,4 @@
+﻿  1939.cpp
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1939\1939.cpp(49,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\1939\1939.cpp(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1939.vcxproj -> C:\Users\lee sung hoon\Desktop\WORKSPACE\C++\BOJ\Debug\1939.exe
