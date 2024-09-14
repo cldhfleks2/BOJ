@@ -1,1 +1,1 @@
-## This repository contains records of problem solving from Baekjoon Online Judge.
+## 백준 온라인 문제은행의 알고리즘 문제 풀이 기록입니다.
